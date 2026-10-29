@@ -105,7 +105,7 @@ Watch the video demonstration of the Car Sales Analytics Dashboard to explore it
 
 ## 🔗 Project Links
 
-* **GitHub Repository:** Add your repository URL here.
+* **[GitHub Repository:](https://github.com/arbaz-khan-data-analyst/Car-Sales-Analytics)**
 * **LinkedIn Profile:** Add your LinkedIn profile URL here.
 * **[Dashboard Demo:](https://github.com/arbaz-khan-data-analyst/Car-Sales-Analytics/blob/main/Click%20to%20here%20watch%20the%20dashboard%20demo.mp4)**
 
