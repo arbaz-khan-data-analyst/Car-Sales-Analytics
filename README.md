@@ -92,7 +92,7 @@ Developed an interactive Car Sales Analytics Dashboard to visualize important KP
 
 Watch the video demonstration of the Car Sales Analytics Dashboard to explore its visualizations and interactive features.
 
-▶️ **[Watch Dashboard Demo](PASTE_YOUR_VIDEO_LINK_HERE)**
+▶️ **[Watch Dashboard Demo](https://github.com/arbaz-khan-data-analyst/Car-Sales-Analytics/blob/main/Click%20to%20here%20watch%20the%20dashboard%20demo.mp4)**
 
 ## 📈 Key Learnings
 
@@ -107,7 +107,7 @@ Watch the video demonstration of the Car Sales Analytics Dashboard to explore it
 
 * **GitHub Repository:** Add your repository URL here.
 * **LinkedIn Profile:** Add your LinkedIn profile URL here.
-* **Dashboard Demo:** Add your dashboard video link above.
+* **Dashboard Demo:** 
 
 ## 👨‍💻 Skills Demonstrated
 
